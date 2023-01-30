@@ -7,4 +7,7 @@ The goal is to use PFOCR to do prioritization and/or grouping of trapi results u
 3. if the results from 2. are good, we can explore how to extend the ideas to the UI
 
 # Work so far
-This repo is build from the initial exploration done by Anders Riutta. Anders' notebooks: https://github.com/wikipathways/pathway-figure-ocr/tree/master/notebooks
+This repo is build from the initial exploration done by [Anders Riutta](https://github.com/wikipathways/pathway-figure-ocr/tree/master/notebooks).
+
+1. PFOCR_to_BTE.ipynb - this Jupyter noebook should be run only once for creating PFOCR csv files in Dropbox
+2. **bte_clustering_AA.ipynb** - this is the main Jupyter notebook that addresses the requirements in [issue #538](https://github.com/biothings/BioThings_Explorer_TRAPI/issues/538). 
